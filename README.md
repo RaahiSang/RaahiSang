@@ -25,7 +25,7 @@ Whether you're looking for small local shops, budget-friendly accommodations, or
 
 ## 📫 Get in Touch  
 
-📩 Email: [raahisang@example.com](mailto:raahisang@gmail.com)  
+📩 Email: [raahisang@gmail.com](mailto:raahisang@gmail.com)  
 💬 GitHub Issues: [RaahiSang](https://raahisang.com/)  
 
 ---
